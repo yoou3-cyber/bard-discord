@@ -1,0 +1,3 @@
+GoogleBard
+py-cord
+python-dotenv
